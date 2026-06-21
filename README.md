@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Diogo Borges! 👋</h1>
-<h3 align="center">Desenvolvedor Web / Mobile /h3>
+<h3 align="center">Desenvolvedor Web & Mobile </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diogo-borges-3077a5186" target="_blank">
